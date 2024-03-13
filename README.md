@@ -4,7 +4,7 @@ with all traffic in the advanced network settings
 ```bash
 sudo apt install update 
 sudo apt install upgrade 
-sudo apt install docker.io
+sudo snap install docker 
 git clone https://github.com/saiguptha2003/webproject_SWE
 sudo -i
 cd /home/ubuntu
